@@ -1,2 +1,1 @@
-# sea
-Structural Evaluation Assistant
+# Structural Evaluation Assistant
